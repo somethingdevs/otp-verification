@@ -1,2 +1,2 @@
 # otp-verification
-OTP Authentication
+ OTP authentication

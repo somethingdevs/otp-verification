@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620515262026",
+    "project_id": "internshala-otp-task",
+    "storage_bucket": "internshala-otp-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620515262026:android:ad2e211e25e0c18617f0b3",
+        "android_client_info": {
+          "package_name": "com.example.internshala_otp_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620515262026-4vd81thr5m23cr7p00u0rv242pma96h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.internshala_otp_task",
+            "certificate_hash": "367b3237771ad24f174d91b5306a608773c924a4"
+          }
+        },
+        {
+          "client_id": "620515262026-kib0290fm7r9h348k9ok95f44f0vupeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9xEx-MUJ2Co0iWpHNOfsmaSa6_Ei1rnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620515262026-kib0290fm7r9h348k9ok95f44f0vupeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
